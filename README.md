@@ -1,154 +1,182 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C6FF&height=250&section=header&text=Yaswanth%20Chowdary%20M.&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C6FF&height=240&section=header&text=Yaswanth%20Chowdary%20M.&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <h3 align="center">
-⚔️ AI Data Engineer | ☁️ Cloud Architect | 📊 Big Data Specialist  
+AI Data Engineer · Cloud & Big Data · Machine Learning
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=From+Raw+Data+to+Executive+Decisions;AWS+%7C+Azure+%7C+GCP+%7C+Spark+%7C+Kafka;FAANG-Ready+Data+Engineering+Profile;Welcome+to+my+Digital+Dojo!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=21&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Designing+Scalable+Data+Systems;Real-Time+Streaming+%7C+ML+%7C+Cloud;Turning+Raw+Data+into+Decisions" />
 </p>
 
 ---
 
-## 🎌 Anime Lore (Who Am I?)
+## 👋 About Me
 
-> *“In a cyberpunk world overflowing with data, one engineer masters the flow…”*
+I’m **Yaswanth Chowdary M.**, a **Data Engineer / AI Engineer** with 4+ years of experience building **scalable, cloud-native data platforms** and **ML-driven systems** across AWS, Azure, and GCP.
 
-I’m **Yaswanth Chowdary M.**, a **Data Engineer / AI Engineer** with **4+ years of experience** building **cloud-scale, real-time data platforms** across **AWS, Azure, and GCP**.
+- Designed pipelines processing **terabytes of data weekly**
+- Reduced analytics latency by **60%** using real-time streaming
+- Improved pipeline reliability and observability
+- Built ML models, BI dashboards, and full-stack applications
 
-🌀 Process **terabytes of data weekly**  
-⚡ Reduced analytics latency by **60% using Kafka**  
-🛡️ Improved pipeline resilience & cut downtime by **30%**  
-📈 Built BI dashboards driving executive decisions  
-
-📍 **Austin, Texas, USA**
+📍 Austin, Texas, USA
 
 ---
 
-## 🧠 Power Levels (Tech Stack)
-
-### ⚔️ Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### ☁️ Cloud & Big Data
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark)
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka)
-
-### 🔥 Backend & Analytics
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake)
+## 🧪 Projects (Animated Showcase)
 
 ---
-
-## 🏆 Achievements Unlocked
-
-🏅 AWS Certified Data Engineer – Associate  
-🏅 Microsoft Certified: Power BI Data Analyst  
-🏅 Lloyds Banking Group – Data Science Simulation  
-🏅 Walmart USA – Advanced Software Engineering Simulation  
-🏅 IBM – Data Analysis with Python  
-
----
-
-## 🧭 Career Arcs
-
-### 🏢 UnitedHealth Group — *Data Engineer / AI Engineer*
-📍 Austin, TX | *June 2024 – Present*  
-- Architected scalable cloud data pipelines  
-- Built real-time streaming systems & AI-driven analytics  
-- Improved SLA compliance and executive reporting  
-
-### 🏥 Tata 1mg — *Data Engineer*
-📍 Bengaluru, India | *2020 – 2022*  
-- Designed Spark-based batch & streaming pipelines  
-- Optimized analytics workflows for scale  
-
-### 🧩 OneAdvanced — *Data Analyst*
-📍 Hyderabad, India | *2019*  
-- Delivered BI dashboards & insights  
-
----
-
-## 🧪 Project Scrolls (Signature Works)
 
 ### ✈️ Flight Price Prediction — *Machine Learning*
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="500"/>
+</p>
+
 - Built supervised ML models to predict airline ticket prices  
-- Performed EDA, feature engineering & regression modeling  
+- Performed EDA, feature engineering, and regression modeling  
+- Models: Linear Regression, Decision Tree, Random Forest  
 - Achieved **R² ≈ 0.82** with reduced RMSE  
-**Tech:** Python, scikit-learn, Pandas  
+
+**Tech:** Python · Pandas · NumPy · scikit-learn · Jupyter
 
 ---
 
-### 🏘️ Rental Management System — *Full-Stack*
-- End-to-end rental platform (listings, payments, maintenance)  
-- JWT auth, role-based access, cloud deployment  
-**Tech:** React, FastAPI / Node.js, PostgreSQL, AWS, Docker  
+### 🏘️ Rental Management System — *Full-Stack Application*
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="500"/>
+</p>
+
+- End-to-end rental platform for listings, tenants, payments & maintenance  
+- Role-based access (Admin / Owner / Tenant)  
+- Secure authentication and cloud deployment  
+
+**Tech:** React · FastAPI / Node.js · PostgreSQL · AWS · Docker · JWT
 
 ---
 
 ### 🧠 Multilingual Healthcare Chatbot — *BERT / NLP*
-- Fine-tuned BERT for disease prediction from symptoms  
-- Multilingual support (EN, HI, ES)  
-**Tech:** Hugging Face, Python, Flask  
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="500"/>
+</p>
+
+- Fine-tuned BERT model for disease category prediction from symptoms  
+- Multilingual support: English, Hindi, Spanish  
+- Ethical AI focus: triage & early guidance (not diagnosis)  
+
+**Tech:** Hugging Face · Python · Flask · NLP APIs
 
 ---
 
 ### 🚗 Car Rental Management System — *Database & SQL*
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCVpWg8z9yXn5jG/giphy.gif" width="500"/>
+</p>
+
 - Designed normalized relational schema (3NF)  
-- Built optimized queries for bookings & revenue  
-**Tech:** MySQL / PostgreSQL, SQL  
+- Implemented PK/FK constraints, indexes, joins, transactions  
+- Built analytical queries for availability, revenue & penalties  
+
+**Tech:** MySQL · PostgreSQL · SQL · ER Modeling
 
 ---
 
 ### 🌱 Carbon Footprint Analysis of LLMs — *AI Research*
-- Estimated CO₂ emissions of GPT, BERT, T5  
-- Built sustainability comparisons & visualizations  
-**Tech:** Python, Data Visualization  
+<p align="center">
+  <img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" width="500"/>
+</p>
+
+- Analyzed carbon emissions of training & inference for LLMs  
+- Compared AI emissions with real-world human activities  
+- Built sustainability-focused visualizations  
+
+**Tech:** Python · Data Analysis · Visualization
 
 ---
 
 ### 🎬 Movie Recommendation System — *AI / ML*
-- Collaborative + content-based filtering  
-- Evaluated with precision, recall, RMSE  
-**Tech:** Python, scikit-learn, Pandas  
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="500"/>
+</p>
+
+- Personalized recommendations using user behavior & content metadata  
+- Implemented collaborative, content-based & hybrid models  
+- Evaluated using precision, recall & RMSE  
+
+**Tech:** Python · Pandas · scikit-learn · Matplotlib
 
 ---
 
-### 🏦 Lloyds Banking Group — *Data Science*
-- Customer churn prediction using Random Forest  
+### 🏦 Lloyds Banking Group — *Data Science Simulation*
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="500"/>
+</p>
+
+- Built churn prediction models using Random Forest  
 - Achieved **ROC-AUC ≈ 0.82**  
-**Tech:** Python, scikit-learn  
+- Performed feature engineering & hyperparameter tuning  
+
+**Tech:** Python · scikit-learn · pandas
 
 ---
 
 ### 🛒 Walmart USA — *Advanced Software Engineering*
-- Custom Heap implementation (Java)  
-- UML & ER design for enterprise systems  
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500"/>
+</p>
+
+- Implemented custom Heap data structure (Java)  
+- Designed UML class diagrams & ER models  
+
+**Tech:** Java · Data Structures · UML · SQL
 
 ---
 
-## 📊 GitHub Battle Stats
+## 💻 Tech Stack & Skills
+
+### 🧠 Programming & Query Languages
+C · Java · JavaScript · Python · R · Scala · .NET · SQL · GraphQL
+
+### ☁️ Cloud Platforms
+AWS · Microsoft Azure · Google Cloud Platform
+
+### 🔥 Big Data & Streaming
+Apache Spark · Apache Kafka · Apache Hadoop · Apache Hive  
+Apache Flink · Apache Airflow
+
+### 🌐 Backend & APIs
+FastAPI · Flask · Django · Node.js  
+Apollo GraphQL · TypeGraphQL
+
+### 🎨 Frontend
+React · Angular · AngularJS · SASS
+
+### 🗄️ Databases
+PostgreSQL · MySQL · MongoDB · Neo4j · SQLite  
+Microsoft SQL Server · Amazon DynamoDB  
+Apache Cassandra · Snowflake · Realm
+
+### 🤖 Machine Learning & Data Science
+NumPy · Pandas · SciPy · scikit-learn  
+TensorFlow · PyTorch · Keras  
+Matplotlib · Plotly · MLflow · Anaconda
+
+### 🚀 DevOps & CI/CD
+Git · GitHub · GitLab  
+GitHub Actions · GitLab CI · Jenkins · CloudBees  
+Docker · Kubernetes · Terraform
+
+### 📊 Monitoring, BI & Tools
+Power BI · Grafana · Prometheus · Jira
+
+---
+
+## ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashwanthchowdary001&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashwanthchowdary001&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanthchowdary001&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
@@ -164,18 +192,6 @@ I’m **Yaswanth Chowdary M.**, a **Data Engineer / AI Engineer** with **4+ year
   </a>
 </p>
 
----
-
-## 🧩 Recruiter Signal (FAANG Mode)
-
-✅ Cloud-native data engineering  
-✅ Real-time streaming (Kafka, Spark)  
-✅ Strong Python & SQL fundamentals  
-✅ Production-scale pipelines  
-✅ Business-impact mindset  
-
-> 💬 *Open to Senior Data Engineer / AI Engineer roles (USA)*
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7F00FF&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7F00FF&height=110&section=footer" />
 </p>
