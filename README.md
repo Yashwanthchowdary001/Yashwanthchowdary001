@@ -26,7 +26,7 @@ I’m **Yaswanth Chowdary M.**, a **Data Engineer / AI Engineer** with 4+ years 
 
 ---
 
-## 🧪 Academic Projects
+## 🧪Academic Projects
 
 ---
 
@@ -134,108 +134,47 @@ I’m **Yaswanth Chowdary M.**, a **Data Engineer / AI Engineer** with 4+ years 
 
 ---
 
-## 🧠 Power Levels (Tech Stack)
+## 💻 Tech Stack & Skills
 
-### ⚔️ Programming & Query Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
+### 🧠 Programming & Query Languages
+C · Java · JavaScript · Python · R · Scala · .NET · SQL · GraphQL
 
----
+### ☁️ Cloud Platforms
+AWS · Microsoft Azure · Google Cloud Platform
 
-### ☁️ Cloud, Data Engineering & Streaming
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop)
-![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
-![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=apacheflink)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
+### 🔥 Big Data & Streaming
+Apache Spark · Apache Kafka · Apache Hadoop · Apache Hive  
+Apache Flink · Apache Airflow
 
----
+### 🌐 Backend & APIs
+FastAPI · Flask · Django · Node.js  
+Apollo GraphQL · TypeGraphQL
 
-### 🤖 LLMs, RAG & Vector Databases
-![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-5B8CFF?style=for-the-badge)
-![Embeddings](https://img.shields.io/badge/Embeddings-00BFA6?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai)
-![Vector DB](https://img.shields.io/badge/Vector%20Databases-1F6FEB?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
-![Weaviate](https://img.shields.io/badge/Weaviate-00A3FF?style=for-the-badge)
-![Milvus](https://img.shields.io/badge/Milvus-00BFA5?style=for-the-badge)
+### 🎨 Frontend
+React · Angular · AngularJS · SASS
 
----
+### 🗄️ Databases
+PostgreSQL · MySQL · MongoDB · Neo4j · SQLite  
+Microsoft SQL Server · Amazon DynamoDB  
+Apache Cassandra · Snowflake · Realm
 
-### 🔥 Backend, Frontend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
-![TypeGraphQL](https://img.shields.io/badge/TypeGraphQL-1B1F23?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
-![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass)
+### 🤖 Machine Learning & Data Science
+NumPy · Pandas · SciPy · scikit-learn  
+TensorFlow · PyTorch · Keras  
+Matplotlib · Plotly · MLflow · Anaconda
 
----
+### 🚀 DevOps & CI/CD
+Git · GitHub · GitLab  
+GitHub Actions · GitLab CI · Jenkins · CloudBees  
+Docker · Kubernetes · Terraform
 
-### 🗄️ Databases, Warehouses & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
-![Amazon DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb)
-![Apache Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake)
-![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge)
-
----
-
-### 🤖 Machine Learning, MLOps & Visualization
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)
-
----
-
-### 🚀 DevOps, CI/CD, Observability & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
-![CloudBees](https://img.shields.io/badge/CloudBees-FFCC00?style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+### 📊 Monitoring, BI & Tools
+Power BI · Grafana · Prometheus · Jira
 
 ---
 
 ## ✍️ Random Dev Quote
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
@@ -243,6 +182,7 @@ I’m **Yaswanth Chowdary M.**, a **Data Engineer / AI Engineer** with 4+ years 
 ---
 
 ## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/yeshwanthc564/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
